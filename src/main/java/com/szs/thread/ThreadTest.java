@@ -1,13 +1,11 @@
-package com.bianxianmao.thread;
+package com.szs.thread;
 
 
 import lombok.extern.slf4j.Slf4j;
 import org.apache.lucene.util.NamedThreadFactory;
-import org.springframework.beans.factory.annotation.Autowired;
 
 import javax.annotation.Resource;
 import java.util.concurrent.LinkedBlockingQueue;
-import java.util.concurrent.ThreadFactory;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 

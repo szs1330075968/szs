@@ -1,4 +1,4 @@
-package com.bianxianmao.demo.annotation;
+package com.szs.demo.annotation;
 
 
 import org.slf4j.Logger;

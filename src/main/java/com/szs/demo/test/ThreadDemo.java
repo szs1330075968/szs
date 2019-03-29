@@ -1,4 +1,4 @@
-package com.bianxianmao.demo.test;
+package com.szs.demo.test;
 
 /**
  * @author sunzs

@@ -1,6 +1,5 @@
-package com.bianxianmao.demo;
+package com.szs.demo;
 
-import com.bianxianmao.demo.annotation.TestA;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

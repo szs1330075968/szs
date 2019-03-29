@@ -1,4 +1,4 @@
-package com.bianxianmao.thread;
+package com.szs.thread;
 
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.codec.digest.DigestUtils;

@@ -1,4 +1,4 @@
-package com.bianxianmao.elasticsearch;
+package com.szs.elasticsearch;
 
 
 import org.elasticsearch.action.admin.indices.create.CreateIndexResponse;
